@@ -1,237 +1,255 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelrahman%20Elattar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20|%20AI%20Engineer%20|%20Multi-Agent%20Systems%20Developer&descSize=18&descAlignY=55"/>
+<!-- Professional Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Abdelrahman%20Elattar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20•%20AI%20Engineer%20•%20MCP%20Certified&descSize=16&descAlignY=55&descAlign=50"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+AI+Solutions+That+Matter+%F0%9F%9A%80;MCP+Certified+by+Anthropic+%F0%9F%8E%93;From+Zewail+City+%F0%9F%8F%9B%EF%B8%8F" alt="Typing SVG" /></a>
+<!-- Professional Tagline -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Multi-Agent+Systems;Certified+in+Model+Context+Protocol+by+Anthropic;Transforming+Data+into+Business+Intelligence)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-3ttar/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/el3ttar3)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elattarabdulrahman@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=el3ttar3&style=for-the-badge&color=6366F1" alt="Profile Views"/>
+<!-- Professional Social Links -->
+<a href="https://www.linkedin.com/in/abdelrahman-3ttar/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="25"/></a>
+<a href="https://github.com/el3ttar3"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25"/></a>
+<a href="mailto:elattarabdulrahman@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25"/></a>
+<img src="https://komarev.com/ghpvc/?username=el3ttar3&style=flat-square&color=4FC3F7" height="25"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class AbdelrahmanElattar:
-    def __init__(self):
-        self.name = "Abdelrahman Elattar"
-        self.role = "Data Scientist & AI Engineer"
-        self.education = "B.Sc. Computational Science & AI @ Zewail City"
-        self.location = "6th of October, Giza, Egypt 🇪🇬"
-        
-        self.interests = [
-            "Multi-Agent Systems",
-            "Large Language Models", 
-            "Model Context Protocol (MCP)",
-            "Explainable AI",
-            "Time Series Forecasting"
-        ]
-        
-        self.certifications = {
-            "MCP Introduction": "Anthropic",
-            "MCP Advanced Topics": "Anthropic",
-            "Startup Developer": "TIEC"
-        }
-        
-    def current_focus(self):
-        return "Building intelligent AI agents that understand business DNA 🧬"
-```
+## About Me
+
+**Data Scientist & AI Engineer** specializing in Multi-Agent Systems and Machine Learning solutions.
+
+- 🎓 **B.Sc. Computational Science & AI** — Zewail City
+- 🤖 Currently building **Pulse** — AI-Powered Business Intelligence Platform
+- 🧠 Expert in **LLMs**, **CrewAI**, and **Model Context Protocol**
+- 📊 Delivered **98.3%** efficiency improvement in ML systems
+- 🎯 Achieved **0.02 MSE** in time series forecasting
+
+<br clear="right"/>
+
+---
+
+## 🎯 Core Competencies
 
 <div align="center">
+
+<!-- Skill Progress Circles -->
 <table>
 <tr>
-<td>🔭 Currently working on</td>
-<td><b>Pulse - AI-Powered Multi-Agent Business Intelligence Platform</b></td>
-</tr>
-<tr>
-<td>🌱 Learning</td>
-<td><b>Advanced MCP Patterns & Agentic Workflows</b></td>
-</tr>
-<tr>
-<td>👯 Looking to collaborate on</td>
-<td><b>LLM & Multi-Agent System Projects</b></td>
-</tr>
-<tr>
-<td>💬 Ask me about</td>
-<td><b>Machine Learning, Deep Learning, CrewAI, MCP</b></td>
+<td align="center" width="140">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+<br><b>Python</b>
+<br><img src="https://progress-bar.xyz/95/?width=100&color=3776AB"/>
+</td>
+<td align="center" width="140">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TensorFlow"/>
+<br><b>TensorFlow</b>
+<br><img src="https://progress-bar.xyz/90/?width=100&color=FF6F00"/>
+</td>
+<td align="center" width="140">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
+<br><b>Docker</b>
+<br><img src="https://progress-bar.xyz/80/?width=100&color=2496ED"/>
+</td>
+<td align="center" width="140">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
+<br><b>React</b>
+<br><img src="https://progress-bar.xyz/75/?width=100&color=61DAFB"/>
+</td>
+<td align="center" width="140">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="SQL"/>
+<br><b>SQL</b>
+<br><img src="https://progress-bar.xyz/85/?width=100&color=4479A1"/>
+</td>
 </tr>
 </table>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### LLMs & Agents
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/🤖_CrewAI-6366F1?style=for-the-badge)
-![Anthropic](https://img.shields.io/badge/Anthropic_MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![AutoGen](https://img.shields.io/badge/🔄_AutoGen-0078D4?style=for-the-badge)
-
-### Deep Learning
-![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=for-the-badge)
-![GANs](https://img.shields.io/badge/GANs-9B59B6?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge)
-
-### Explainable AI
-![SHAP](https://img.shields.io/badge/SHAP-2ECC71?style=for-the-badge)
-![LIME](https://img.shields.io/badge/LIME-27AE60?style=for-the-badge)
-![GradCAM](https://img.shields.io/badge/GradCAM-E74C3C?style=for-the-badge)
-
-### Web & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technology Stack
 
 <div align="center">
 
-<a href="https://github.com/el3ttar3/pulse-multi-agent-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el3ttar3&repo=pulse-multi-agent-platform&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/el3ttar3/YouTube-Summarizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el3ttar3&repo=YouTube-Summarizer&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
+**Machine Learning & AI**
 
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
 
-<a href="https://github.com/el3ttar3/financial-risk-assessment-ml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el3ttar3&repo=financial-risk-assessment-ml&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/el3ttar3/DSAI-Course-Notebooks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el3ttar3&repo=DSAI-Course-Notebooks&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
+**LLMs & Agent Frameworks**
 
-<br/><br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-6366F1?style=flat-square&logo=robot&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-191919?style=flat-square&logo=anthropic&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-<a href="https://github.com/el3ttar3/UDP-File-Transfer-Protocol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el3ttar3&repo=UDP-File-Transfer-Protocol&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/el3ttar3/Top-up-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el3ttar3&repo=Top-up-Project&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
+**Deep Learning & NLP**
+
+![CNNs](https://img.shields.io/badge/CNNs-FF6B6B?style=flat-square)
+![GANs](https://img.shields.io/badge/GANs-9B59B6?style=flat-square)
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white)
+![Siamese](https://img.shields.io/badge/Siamese_Networks-2ECC71?style=flat-square)
+![Transfer_Learning](https://img.shields.io/badge/Transfer_Learning-E74C3C?style=flat-square)
+
+**Explainable AI**
+
+![SHAP](https://img.shields.io/badge/SHAP-2ECC71?style=flat-square)
+![LIME](https://img.shields.io/badge/LIME-27AE60?style=flat-square)
+![GradCAM](https://img.shields.io/badge/GradCAM-E74C3C?style=flat-square)
+![PDP](https://img.shields.io/badge/PDP-3498DB?style=flat-square)
+![ICE](https://img.shields.io/badge/ICE-9B59B6?style=flat-square)
+
+**Development & DevOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📂 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=el3ttar3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el3ttar3&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+### 🤖 [Pulse MAS Platform](https://github.com/el3ttar3/pulse-multi-agent-platform)
+Multi-Agent System for business intelligence using **CrewAI** and **MCP**. Generates comprehensive Business DNA reports with specialized AI agents.
 
-<br/><br/>
+`CrewAI` `MCP` `FastAPI` `React` `MongoDB`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=el3ttar3&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+</td>
+<td width="50%">
 
-<br/><br/>
+### 🎬 [YouTube Summarizer](https://github.com/el3ttar3/YouTube-Summarizer)
+AI-powered video summarization with interactive Q&A using **Google Gemini**. Full-stack application with FastAPI backend and React frontend.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=el3ttar3&theme=tokyo-night&hide_border=true&border_radius=15" alt="Contribution Graph"/>
+`Gemini AI` `FastAPI` `React` `NLP`
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 [Financial Risk ML](https://github.com/el3ttar3/financial-risk-assessment-ml)
+Two-phase ML project for loan approval prediction achieving **98.3% efficiency improvement**. Implements XGBoost, Random Forest, and SVM with explainability.
+
+`XGBoost` `SHAP` `LIME` `Scikit-learn`
+
+</td>
+<td width="50%">
+
+### 📚 [DSAI Course Notebooks](https://github.com/el3ttar3/DSAI-Course-Notebooks)
+Comprehensive collection of **22+ categories** covering Deep Learning, NLP, Reinforcement Learning, Computer Vision, and more.
+
+`TensorFlow` `PyTorch` `Deep Learning` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 [UDP File Transfer](https://github.com/el3ttar3/UDP-File-Transfer-Protocol)
+Reliable UDP file transfer with custom packet structure, ACK mechanism, and segmentation. Computer Networks course project.
+
+`Python` `Socket` `Networking` `UDP`
+
+</td>
+<td width="50%">
+
+### 🎓 [Top-Up Platform](https://github.com/el3ttar3/Top-up-Project)
+E-learning platform for career-specific upskilling through expert-led courses and practical projects.
+
+`Full-Stack` `Education` `Web Development`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=el3ttar3&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=el3ttar3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=el3ttar3&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7"/>
 
 <br/>
 
-| 🎓 Certification | 🏛️ Issuer | 📅 Date |
-|:-----------------|:----------|:--------|
-| Model Context Protocol: Advanced Topics | Anthropic | Nov 2025 |
-| Introduction to Model Context Protocol | Anthropic | Nov 2025 |
-| Certified Startup Developer | TIEC | - |
-| SDGs Ambassador | NIGSD | - |
-
----
-
-## 💼 Key Achievements
-
-<div align="center">
-
-| 📈 Metric | 🎯 Achievement |
-|:----------|:---------------|
-| **Efficiency Improvement** | 98.3% in loan approval process |
-| **Forecasting Accuracy** | 0.02 MSE in stock prediction |
-| **Dataset Scale** | 127,000+ rows analyzed |
-| **Multi-Agent System** | Business DNA generation with CrewAI |
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el3ttar3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 ---
 
-## 🎯 2025 Goals
-
-- [ ] 🚀 Launch Pulse MAS Platform
-- [ ] 📚 Contribute to Open Source AI Projects
-- [ ] 🎓 Complete Advanced MCP Certification
-- [ ] 🌍 Participate in AI Research Collaboration
-- [ ] 📝 Publish Technical Blog Posts
-
----
-
-## 🤝 Let's Connect!
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
-<a href="https://linkedin.com/in/abdelrahman-elattar-66b818261">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://github-profile-trophy.vercel.app/?username=el3ttar3&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
+
+</div>
+
+| Certification | Issuer | Verification |
+|:--------------|:-------|:-------------|
+| **Model Context Protocol: Advanced Topics** | Anthropic | [Verify ↗](https://verify.skilljar.com/c/keafpp3tji76) |
+| **Introduction to Model Context Protocol** | Anthropic | [Verify ↗](https://verify.skilljar.com/c/cp3hrh7hw8p9) |
+| **Certified Startup Developer** | TIEC | — |
+| **SDGs Ambassador** | NIGSD | — |
+
+---
+
+## 📈 Key Metrics
+
+<div align="center">
+
+| Metric | Achievement |
+|:-------|:------------|
+| 🎯 **Efficiency Improvement** | 98.3% in loan approval automation |
+| 📊 **Forecasting Accuracy** | 0.02 MSE in stock prediction |
+| 📁 **Dataset Scale** | 127,000+ rows processed |
+| 🤖 **Multi-Agent Systems** | Business DNA generation with CrewAI |
+
+</div>
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdelrahman-3ttar/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:elattarabdulrahman@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/el3ttar3">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<br/>
-
-### 💡 "Building human-centered, data-powered solutions that bridge technology and business value."
+> *"Building human-centered, data-powered solutions that bridge technology and business value."*
 
 </div>
 
@@ -239,11 +257,6 @@ class AbdelrahmanElattar:
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-<p>Made with ❤️ by Abdelrahman Elattar</p>
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Footer Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
 
 </div>
