@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Abdelrahman%20Elattar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20•%20AI%20Engineer%20•%20MCP%20Certified&descSize=16&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Abdelrahman%20Elattar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20•%20AI%20Engineer%20•%20AI%20Solutions%20Architect&descSize=16&descAlignY=55&descAlign=50"/>
 
 <!-- Professional Tagline -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Multi-Agent+Systems;Certified+in+Model+Context+Protocol+by+Anthropic;Transforming+Data+into+Business+Intelligence)](https://git.io/typing-svg)
@@ -18,11 +18,11 @@
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## About Me
 
-**Data Scientist & AI Engineer** specializing in Multi-Agent Systems and Machine Learning solutions.
+**Data Scientist & AI Solutions Architect** specializing in Multi-Agent Systems and Machine Learning solutions.
 
 - 🎓 **B.Sc. Computational Science & AI** — Zewail City
 - 🤖 Currently building **Pulse** — AI-Powered Business Intelligence Platform
@@ -38,33 +38,57 @@
 
 <div align="center">
 
-<!-- Skill Progress Circles -->
 <table>
 <tr>
-<td align="center" width="140">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
 <br><b>Python</b>
-<br><img src="https://progress-bar.xyz/95/?width=100&color=3776AB"/>
 </td>
-<td align="center" width="140">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TensorFlow"/>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+<br><b>C++</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
 <br><b>TensorFlow</b>
-<br><img src="https://progress-bar.xyz/90/?width=100&color=FF6F00"/>
 </td>
-<td align="center" width="140">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
-<br><b>Docker</b>
-<br><img src="https://progress-bar.xyz/80/?width=100&color=2496ED"/>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
+<br><b>PyTorch</b>
 </td>
-<td align="center" width="140">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
 <br><b>React</b>
-<br><img src="https://progress-bar.xyz/75/?width=100&color=61DAFB"/>
 </td>
-<td align="center" width="140">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="SQL"/>
-<br><b>SQL</b>
-<br><img src="https://progress-bar.xyz/85/?width=100&color=4479A1"/>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+<br><b>FastAPI</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+<br><b>Docker</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+<br><b>MongoDB</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
+<br><b>HTML</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
+<br><b>CSS</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+<br><b>Tailwind</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+<br><b>Git</b>
 </td>
 </tr>
 </table>
@@ -77,14 +101,25 @@
 
 <div align="center">
 
-**Machine Learning & AI**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Machine Learning & AI**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **LLMs & Agent Frameworks**
 
@@ -93,16 +128,18 @@
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Deep Learning & NLP**
+**Deep Learning Architectures**
 
 ![CNNs](https://img.shields.io/badge/CNNs-FF6B6B?style=flat-square)
 ![GANs](https://img.shields.io/badge/GANs-9B59B6?style=flat-square)
-![BERT](https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Siamese](https://img.shields.io/badge/Siamese_Networks-2ECC71?style=flat-square)
 ![Transfer_Learning](https://img.shields.io/badge/Transfer_Learning-E74C3C?style=flat-square)
+![RNNs](https://img.shields.io/badge/RNNs-3498DB?style=flat-square)
+![LSTMs](https://img.shields.io/badge/LSTMs-1ABC9C?style=flat-square)
 
-**Explainable AI**
+**Explainable AI (XAI)**
 
 ![SHAP](https://img.shields.io/badge/SHAP-2ECC71?style=flat-square)
 ![LIME](https://img.shields.io/badge/LIME-27AE60?style=flat-square)
@@ -110,14 +147,22 @@
 ![PDP](https://img.shields.io/badge/PDP-3498DB?style=flat-square)
 ![ICE](https://img.shields.io/badge/ICE-9B59B6?style=flat-square)
 
-**Development & DevOps**
+**Web & Backend Development**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+
+**DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -168,7 +213,7 @@ Comprehensive collection of **22+ categories** covering Deep Learning, NLP, Rein
 ### 🌐 [UDP File Transfer](https://github.com/el3ttar3/UDP-File-Transfer-Protocol)
 Reliable UDP file transfer with custom packet structure, ACK mechanism, and segmentation. Computer Networks course project.
 
-`Python` `Socket` `Networking` `UDP`
+`Python` `Socket` `Networking` `C++`
 
 </td>
 <td width="50%">
@@ -188,24 +233,17 @@ E-learning platform for career-specific upskilling through expert-led courses an
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=el3ttar3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=el3ttar3&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7"/>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=el3ttar3&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=el3ttar3&layout=compact&theme=algolia&hide_border=true&langs_count=10)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el3ttar3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8"/>
+![Streak Stats](https://streak-stats.demolab.com?user=el3ttar3&theme=algolia&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=el3ttar3&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
-
-</div>
+## 🎓 Certifications
 
 | Certification | Issuer | Verification |
 |:--------------|:-------|:-------------|
@@ -249,7 +287,8 @@ E-learning platform for career-specific upskilling through expert-led courses an
 
 <br/><br/>
 
-> *"Building human-centered, data-powered solutions that bridge technology and business value."*
+> ### *"Formal education will make you a living; self-education will make you a fortune."*
+> **— Jim Rohn**, Entrepreneur & Author
 
 </div>
 
