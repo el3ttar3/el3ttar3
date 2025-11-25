@@ -229,20 +229,6 @@ E-learning platform for career-specific upskilling through expert-led courses an
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=el3ttar3&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=el3ttar3&layout=compact&theme=algolia&hide_border=true&langs_count=10)
-
-![Streak Stats](https://streak-stats.demolab.com?user=el3ttar3&theme=algolia&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Certifications
 
 | Certification | Issuer | Verification |
