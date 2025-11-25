@@ -24,17 +24,17 @@
 
 **Data Scientist & AI Solutions Architect** specializing in Multi-Agent Systems and Machine Learning solutions.
 
-- 🎓 **B.Sc. Computational Science & AI** — Zewail City
-- 🤖 Currently building **Pulse** — AI-Powered Business Intelligence Platform
-- 🧠 Expert in **LLMs**, **CrewAI**, and **Model Context Protocol**
-- 📊 Delivered **98.3%** efficiency improvement in ML systems
-- 🎯 Achieved **0.02 MSE** in time series forecasting
+-  **B.Sc. Computational Science & AI** — Zewail City
+-  Currently building **Pulse** — AI-Powered Business Intelligence Platform
+-  Expert in **LLMs**, **CrewAI**, and **Model Context Protocol**
+-  Delivered **98.3%** efficiency improvement in ML systems
+-  Achieved **0.02 MSE** in time series forecasting
 
 <br clear="right"/>
 
 ---
 
-## 🎯 Core Competencies
+## Core Competencies
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
@@ -168,7 +168,7 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -229,7 +229,7 @@ E-learning platform for career-specific upskilling through expert-led courses an
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 | Certification | Issuer | Verification |
 |:--------------|:-------|:-------------|
@@ -240,22 +240,22 @@ E-learning platform for career-specific upskilling through expert-led courses an
 
 ---
 
-## 📈 Key Metrics
+## Key Metrics
 
 <div align="center">
 
 | Metric | Achievement |
 |:-------|:------------|
-| 🎯 **Efficiency Improvement** | 98.3% in loan approval automation |
-| 📊 **Forecasting Accuracy** | 0.02 MSE in stock prediction |
-| 📁 **Dataset Scale** | 127,000+ rows processed |
-| 🤖 **Multi-Agent Systems** | Business DNA generation with CrewAI |
+| **Efficiency Improvement** | 98.3% in loan approval automation |
+| **Forecasting Accuracy** | 0.02 MSE in stock prediction |
+| **Dataset Scale** | 127,000+ rows processed |
+| **Multi-Agent Systems** | Business DNA generation with CrewAI |
 
 </div>
 
 ---
 
-## 📬 Connect
+## Connect
 
 <div align="center">
 
